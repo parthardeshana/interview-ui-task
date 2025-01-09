@@ -1,0 +1,151 @@
+{
+  "key_benefits": [
+    {
+      "title": "Third-Party Liability",
+      "description": "Covers damage or injury caused to other people or property."
+    },
+    {
+      "title": "Own Damage Cover",
+      "description": "Cover repair or replacement costs of the insured car."
+    },
+    {
+      "title": "Add-Ons",
+      "description": "Options like zero depreciations, roadside assistance, and engine protection enhance coverage."
+    },
+    {
+      "title": "Cashless Claims",
+      "description": "Convenient repairs at network garages with cashless service options."
+    }
+  ],
+  "IncludedAndExcluded": [
+    {
+      "title": "Included",
+      "description": "Third-party liability, accidental damage, theft, fire and optional add-ons (e.g., zero depreciation)."
+    },
+    {
+      "title": "Excluded",
+      "description": "Normal wear and tear, damages from intoxicated driving, mechanical/electrical failures, and unauthorized usage."
+    }
+  ],
+  "contents": [
+    {
+      "list": "What is Car Insurance?"
+    },
+    {
+      "list": "Key Benefits"
+    },
+    {
+      "list": "Why Do You Need Car Insurance?"
+    },
+    {
+      "list": "What's Included & Excluded?"
+    },
+    {
+      "list": "Car Insurance sub-categories"
+    }
+  ],
+  "latest_blogs": [
+    {
+      "date": "January 12, 2023",
+      "title": "Transfer Your Home: The Powe...",
+      "description": "Bottleneck mice my capacity is full, nor incentiviziation we need to start advertising on social media, or..."
+    },
+    {
+      "date": "January 12, 2023",
+      "title": "The Benefits of Sustainable Interi...",
+      "description": "Bottleneck mice my capacity is full, nor incentiviziation we need to start advertising on social media, or..."
+    },
+    {
+      "date": "January 12, 2023",
+      "title": "Color Theory In Interior Design: U...",
+      "description": "Bottleneck mice my capacity is full, nor incentiviziation we need to start advertising on social media, or..."
+    },
+    {
+      "date": "January 12, 2023",
+      "title": "Creating a Gallery Wall: Tips and...",
+      "description": "Bottleneck mice my capacity is full, nor incentiviziation we need to start advertising on social media, or..."
+    },
+    {
+      "date": "January 12, 2023",
+      "title": "The Benefits of Sustainable Interi...",
+      "description": "Bottleneck mice my capacity is full, nor incentiviziation we need to start advertising on social media, or..."
+    },
+    {
+      "date": "January 12, 2023",
+      "title": "Color Theory In Interior Design: U...",
+      "description": "Bottleneck mice my capacity is full, nor incentiviziation we need to start advertising on social media, or..."
+    },
+    {
+      "date": "January 12, 2023",
+      "title": "Creating a Gallery Wall: Tips and...",
+      "description": "Bottleneck mice my capacity is full, nor incentiviziation we need to start advertising on social media, or..."
+    }
+  ],
+  "insurance_sub_categories": [
+    {
+      "id": 1,
+      "title": "Third-Party Liability Insurance:",
+      "description": "Covers damages caused to third parties in accidents and is legally required in many regions."
+    },
+    {
+      "id": 2,
+      "title": "Comprehensive Car Insurance:",
+      "description": "Provides full coverage, including both third-party liabilities and damages to the insured car."
+    },
+    {
+      "id": 3,
+      "title": "Standalone Own Damage Cover:",
+      "description": "Offers protection for damages to the insured car without third-party coverage."
+    },
+    {
+      "id": 4,
+      "title": "Zero Depreciation Cover:",
+      "description": "An add-on to cover the full cost of replacement parts without depreciation deductions."
+    },
+    {
+      "id": 5,
+      "title": "Personal Accident Cover for Driver/Owner:",
+      "description": "Provides financial protection for injury or death of the owner-driver in an accident."
+    },
+    {
+      "id": 6,
+      "title": "Pay-as-you-Drive Insurance:",
+      "description": "Flexible premiums based on usage and mileage, ideal for occasional drivers."
+    },
+    {
+      "id": 7,
+      "title": "Commercial Car Insurance:",
+      "description": "Specialized coverage for cars used for commercial purposes, like taxis and company cars."
+    }
+  ],
+  "footer_data": [
+    {
+      "title": "Company",
+      "sub_items": [
+        "Sitemap",
+        "Careers",
+        "Contact Us",
+        "Terms & Conditions",
+        "Cookie Policy",
+        "Privacy Policy",
+        "Disclaimer"
+      ]
+    },
+    {
+      "title": "Products",
+      "sub_items": [
+        "Two Wheeler Insurance",
+        "Car Insurance",
+        "Commercial Insurance",
+        "Health Insurance",
+        "Term Insurance",
+        "Investment Plans",
+        "Other Products"
+      ]
+    },
+    {
+      "title": "Resources",
+      "sub_items": ["Blogs", "FAQs", "Testimonials", "News"]
+    }
+  ]
+}
